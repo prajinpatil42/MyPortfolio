@@ -37,7 +37,7 @@ nav{
 }
 
 .logo{
-    width:200px;
+    width:220px;
 }
 
 nav ul li{
@@ -118,6 +118,7 @@ nav ul li a::after{
     font-weight: 600;
 
  }
+
 
  .tab-titles{
     display: flex;
